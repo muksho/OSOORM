@@ -1,8 +1,9 @@
 package routes
 
 import (
+	"github.com/muksho/OSOORM/tree/development/backend/controllers"
+
 	"github.com/gin-gonic/gin"
-	"github.com/muksho/OSOORM/backend/controllers"
 )
 
 func SetupRoutes() *gin.Engine {

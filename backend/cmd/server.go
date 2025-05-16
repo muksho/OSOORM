@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/muksho/OSOORM/backend/config"
-	"github.com/muksho/OSOORM/backend/routes"
+	"github.com/muksho/OSOORM/tree/development/backend/config"
+	"github.com/muksho/OSOORM/tree/development/backend/routes"
 )
 
 func main() {

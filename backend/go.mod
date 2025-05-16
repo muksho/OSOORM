@@ -1,4 +1,4 @@
-module github.com/muksho/OSOORM
+module github.com/muksho/OSOORM/tree/development
 
 go 1.21.4
 
