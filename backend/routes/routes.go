@@ -1,7 +1,7 @@
 package routes
 
 import (
-	"github.com/muksho/OSOORM/backend/controllers"
+	"github.com/muksho/OSOORM/controllers"
 
 	"github.com/gin-gonic/gin"
 )
