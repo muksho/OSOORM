@@ -3,8 +3,8 @@ package controllers
 import (
 	"net/http"
 
-	"github.com/muksho/OSOORM/backend/config"
-	"github.com/muksho/OSOORM/backend/models"
+	"github.com/muksho/OSOORM/config"
+	"github.com/muksho/OSOORM/models"
 
 	"github.com/gin-gonic/gin"
 )
